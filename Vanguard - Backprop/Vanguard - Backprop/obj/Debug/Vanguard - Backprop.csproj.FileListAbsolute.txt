@@ -1,0 +1,11 @@
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\bin\Debug\Vanguard - Backprop.exe.config
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\bin\Debug\Vanguard - Backprop.exe
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\bin\Debug\Vanguard - Backprop.pdb
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\obj\Debug\Vanguard - Backprop.csproj.AssemblyReference.cache
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\obj\Debug\Vanguard - Backprop.csproj.SuggestedBindingRedirects.cache
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\obj\Debug\Vanguard___Backprop.Form1.resources
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\obj\Debug\Vanguard___Backprop.Properties.Resources.resources
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\obj\Debug\Vanguard - Backprop.csproj.GenerateResource.cache
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\obj\Debug\Vanguard - Backprop.csproj.CoreCompileInputs.cache
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\obj\Debug\Vanguard - Backprop.exe
+G:\School\346\Vanguard-Backpropagation\Vanguard - Backprop\Vanguard - Backprop\obj\Debug\Vanguard - Backprop.pdb
