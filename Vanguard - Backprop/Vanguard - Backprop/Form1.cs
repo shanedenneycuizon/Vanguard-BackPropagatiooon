@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Vanguard_Backpropagation
+namespace Vanguard___Backprop
 {
     public partial class Form1 : Form
     {

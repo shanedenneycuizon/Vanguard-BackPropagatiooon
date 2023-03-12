@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Vanguard_Backpropagation.Properties
+namespace Vanguard___Backprop.Properties
 {
 
 

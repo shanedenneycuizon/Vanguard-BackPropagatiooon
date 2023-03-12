@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Vanguard-Backpropagation")]
+[assembly: AssemblyTitle("Vanguard - Backprop")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Vanguard-Backpropagation")]
+[assembly: AssemblyProduct("Vanguard - Backprop")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("52c0cfb3-9b63-4b02-9f10-f0bfa0089e51")]
+[assembly: Guid("b9000217-a195-406e-b7e2-f8c31a27c806")]
 
 // Version information for an assembly consists of the following four values:
 //

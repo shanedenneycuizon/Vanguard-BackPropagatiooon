@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vanguard-Backpropagation", "Vanguard-Backpropagation\Vanguard-Backpropagation.csproj", "{52C0CFB3-9B63-4B02-9F10-F0BFA0089E51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vanguard - Backprop", "Vanguard - Backprop\Vanguard - Backprop.csproj", "{B9000217-A195-406E-B7E2-F8C31A27C806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{52C0CFB3-9B63-4B02-9F10-F0BFA0089E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52C0CFB3-9B63-4B02-9F10-F0BFA0089E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{52C0CFB3-9B63-4B02-9F10-F0BFA0089E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52C0CFB3-9B63-4B02-9F10-F0BFA0089E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9000217-A195-406E-B7E2-F8C31A27C806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9000217-A195-406E-B7E2-F8C31A27C806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9000217-A195-406E-B7E2-F8C31A27C806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9000217-A195-406E-B7E2-F8C31A27C806}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2548C752-68CD-409B-A309-4904EF3E4D2F}
+		SolutionGuid = {8377C361-7031-43FE-931E-6AE66DB9F30B}
 	EndGlobalSection
 EndGlobal

@@ -1,4 +1,4 @@
-﻿namespace Vanguard_Backpropagation
+﻿namespace Vanguard___Backprop
 {
     partial class Form1
     {

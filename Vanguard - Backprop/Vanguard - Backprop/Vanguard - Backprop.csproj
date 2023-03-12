@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{52C0CFB3-9B63-4B02-9F10-F0BFA0089E51}</ProjectGuid>
+    <ProjectGuid>{B9000217-A195-406E-B7E2-F8C31A27C806}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Vanguard_Backpropagation</RootNamespace>
-    <AssemblyName>Vanguard-Backpropagation</AssemblyName>
+    <RootNamespace>Vanguard___Backprop</RootNamespace>
+    <AssemblyName>Vanguard - Backprop</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Vanguard_Backpropagation
+namespace Vanguard___Backprop
 {
     internal static class Program
     {
