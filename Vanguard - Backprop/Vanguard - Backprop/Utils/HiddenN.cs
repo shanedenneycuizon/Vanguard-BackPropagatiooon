@@ -1,6 +1,7 @@
 using System;
 
-namespace Backprop
+namespace Vanguard___Backprop
+
 {
 	public class HNeuron
 	{

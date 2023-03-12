@@ -1,9 +1,10 @@
 using System;
 using System.IO;
 
-namespace Backprop
+namespace Vanguard___Backprop
+
 {
-	public class NeuralNet
+    public class NeuralNet
 	{
 		private INeuron [] ineuron;//approximatelty 3072
 		private HNeuron [] hneuron;// approx 64
